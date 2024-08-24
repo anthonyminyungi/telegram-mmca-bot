@@ -10,7 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@octokit/rest": "^20.0.2",
     "axios": "^1.4.0",
-    "dotenv": "^16.0.3"
+    "cheerio": "^1.0.0-rc.12",
+    "date-fns": "^3.3.1",
+    "dotenv": "^16.0.3",
+    "json-stringify-pretty-compact": "^4.0.0",
+    "node-html-parser": "^6.1.11"
   }
 }
