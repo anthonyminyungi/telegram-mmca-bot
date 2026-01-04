@@ -16,6 +16,7 @@
     "date-fns": "^3.3.1",
     "dotenv": "^16.0.3",
     "json-stringify-pretty-compact": "^4.0.0",
-    "node-html-parser": "^6.1.11"
+    "node-html-parser": "^6.1.11",
+    "playwright-core": "^1.57.0"
   }
 }
